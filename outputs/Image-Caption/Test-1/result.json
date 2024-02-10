@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "949164b4-b2c4-44ab-8a75-f8e48c6c5a4a",
+    "content-length": "154",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a white car with doors open",
+      "confidence": 0.7953487038612366
+    },
+    "metadata": {
+      "width": 924,
+      "height": 520
+    }
+  }
